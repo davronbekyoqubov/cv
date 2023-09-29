@@ -524,7 +524,7 @@ img {
 
 
 @media (max-width: 770px) {
-  body {
-    background: #f00;
+  .skills__img {
+    margin: 5px 0 5px 0;
   }
 }
