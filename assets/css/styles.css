@@ -521,3 +521,10 @@ img {
     width: 450px;
   }
 }
+
+
+@media (max-width: 770px) {
+  body {
+    background: #f00;
+  }
+}
